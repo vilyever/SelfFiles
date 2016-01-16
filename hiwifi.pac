@@ -27,7 +27,7 @@ var domains = {
 	"ytimg.com":1,
 	"kanzhongguo.com":1,
 	"facebook.com":1,
-	"soundofhope.org
+	"soundofhope.org":1,
 	"sharethis.com":1,
 	"cloudflare.com":1,
 	"crwdcntrl.net":1,
