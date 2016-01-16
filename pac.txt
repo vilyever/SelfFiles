@@ -4,7 +4,7 @@
 var proxy = "__PROXY__";
 
 var rules = [
-"javseeds.com",
+"githubusercontent.com",
 "github.com",
 "amazonaws.com",
 "7th-dream.com",
